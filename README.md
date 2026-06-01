@@ -8,4 +8,4 @@
 - LangChain, FAISS, FastAPI, Streamlit
 
 ## Day 1 — Setup ✅
-Dev environment ready. Ollama + Gemma 4 + venv working.
+Dev environment ready. Ollama + Gemma 4 + venv working.## About
