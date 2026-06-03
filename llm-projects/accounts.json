@@ -1,0 +1,14 @@
+[
+  {
+    "type": "SavingsAccount",
+    "owner": "Kundan",
+    "balance": 10500.0,
+    "interest_rate": 0.05
+  },
+  {
+    "type": "CheckingAccount",
+    "owner": "Aman",
+    "balance": 1000,
+    "overdraft_limit": 3000
+  }
+]
